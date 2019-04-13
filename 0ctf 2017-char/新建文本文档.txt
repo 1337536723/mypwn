@@ -1,0 +1,1 @@
+部署时将libc.so放在目录/home/char/libc.so下
